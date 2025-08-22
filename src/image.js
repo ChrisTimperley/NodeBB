@@ -1,5 +1,7 @@
 'use strict';
 
+// some random comment
+
 const os = require('os');
 const fs = require('fs');
 const path = require('path');
